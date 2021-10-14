@@ -1,0 +1,51 @@
+.NavBarItems{
+    background: #379634ff;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.navbar-logo{
+    height: 70px;
+    width: 70px;
+    display: flex;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.nav-menu {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
+}
+
+.navbar-item {
+  color:  black;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+
+}
+
+.navbar-item:hover {
+    background-color: #4861adff;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+/*--cultured: #eef0f2ff;
+--liberty: #4861adff;
+--silver: #c6c7c4ff;
+--slimy-green: #379634ff;
+--russian-violet: #301a4bff; */

@@ -1,0 +1,17 @@
+.climb-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    background-color: #301a4bff;
+    color: white;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    
+}
+
+
+
+
+
