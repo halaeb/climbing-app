@@ -1,0 +1,17 @@
+.user-instance-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: left;
+    margin-bottom: 10px;
+}
+
+.user-data-subheading {
+    font-size: .7rem;
+    color: grey;
+}
+

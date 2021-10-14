@@ -1,13 +1,16 @@
 .dashboard-container {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    
 }
 .form-container {
     width: 400px;
     background-color: #4861adff;
     padding: 10px;
     margin-top: 20px;
-    margin-left: 100px;
 }
 
 .climb-list-container {
@@ -15,7 +18,15 @@
     background-color: #4861adff;
     padding: 10px;
     margin-top: 20px;
-    margin-left: 100px;
+    margin-left: 20px;
+}
+
+.climber-list-container {
+    width: 400px;
+    background-color: #4861adff;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 .form {
@@ -28,6 +39,7 @@
     color: white;
     margin: auto;
     font-size: 1.8rem;
+    align-items: center;
 }
 .form-field {
     margin: 10px 0 10px 0;
@@ -54,6 +66,11 @@ button {
     flex-direction: column;
     justify-content: space-evenly;
     padding: 10px;
+    align-items: center;
+}
+
+.slide-container {
+    width: 100%;
 }
 
 

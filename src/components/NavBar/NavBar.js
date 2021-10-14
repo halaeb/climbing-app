@@ -21,10 +21,10 @@ class NavBar extends React.Component {
                         <a className='navbar-item' href=''>Dashboard</a>
                     </li>
                     <li>
-                        <a className='navbar-item' href=''>Challenges</a>
+                        <a className='navbar-item' href=''>Find a Partner</a>
                     </li>
                     <li>
-                        <a className='navbar-item' href=''>Gallery</a>
+                        <a className='navbar-item' href=''>Challenges</a>
                     </li>
                     <li>
                         <a className='navbar-item' href=''>Gear Trade</a>
