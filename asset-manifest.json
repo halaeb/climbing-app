@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/climbing-app/static/css/main.3faa047a.chunk.css",
+    "main.js": "/climbing-app/static/js/main.e0490266.chunk.js",
+    "main.js.map": "/climbing-app/static/js/main.e0490266.chunk.js.map",
+    "runtime-main.js": "/climbing-app/static/js/runtime-main.7285bb14.js",
+    "runtime-main.js.map": "/climbing-app/static/js/runtime-main.7285bb14.js.map",
+    "static/js/2.abb1988b.chunk.js": "/climbing-app/static/js/2.abb1988b.chunk.js",
+    "static/js/2.abb1988b.chunk.js.map": "/climbing-app/static/js/2.abb1988b.chunk.js.map",
+    "index.html": "/climbing-app/index.html",
+    "static/css/main.3faa047a.chunk.css.map": "/climbing-app/static/css/main.3faa047a.chunk.css.map",
+    "static/js/2.abb1988b.chunk.js.LICENSE.txt": "/climbing-app/static/js/2.abb1988b.chunk.js.LICENSE.txt",
+    "static/media/like-icon.d3f89eaa.svg": "/climbing-app/static/media/like-icon.d3f89eaa.svg",
+    "static/media/logo.cef3752b.svg": "/climbing-app/static/media/logo.cef3752b.svg",
+    "static/media/shoe-logo.44869e64.svg": "/climbing-app/static/media/shoe-logo.44869e64.svg",
+    "static/media/star-icon.8a771b2d.svg": "/climbing-app/static/media/star-icon.8a771b2d.svg",
+    "static/media/user-logo.33f65317.svg": "/climbing-app/static/media/user-logo.33f65317.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7285bb14.js",
+    "static/js/2.abb1988b.chunk.js",
+    "static/css/main.3faa047a.chunk.css",
+    "static/js/main.e0490266.chunk.js"
+  ]
+}
