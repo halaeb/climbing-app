@@ -64,14 +64,16 @@
 }
 
 .button {
-    background-color: #c6c7c4ff;
+    background-color: grey;
     color: black;
     border-radius: 4px;
     border: 1px solid black;
+    cursor: hover; 
 }
 .button:hover{
     background-color: #379634ff;
 }
+
 
 h3 {
     font-size: .7rem; 
