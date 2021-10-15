@@ -10,6 +10,10 @@ const ClimbInstance = (props) => {
         props.handleLikeClick(props.climb);
     }
 
+    const handleDeleteClick = () => {
+      props.handleDeleteClick(props.climb);
+    }
+
     return (
         <div className='climb-container'> 
         <div className='climb-data-container'>
@@ -26,6 +30,7 @@ const ClimbInstance = (props) => {
               <div className='climb-data-subheading'>
                 {props.climb.gym}
               </div>
+              
             </div>
             
           </div>
@@ -58,6 +63,7 @@ const ClimbInstance = (props) => {
           <button className='button' onClick={handleLikeClick}> 
             <img src={likeIcon} className='icon' alt='like'/>
           </button>
+          <button className='button' onClick={handleDeleteClick}>Delete</button>
         </div>
           
         

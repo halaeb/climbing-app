@@ -10,8 +10,12 @@ const Climbs = (props) => {
       props.addLike(climbToUpdate);
     }
 
+    const deleteClimb = (climbToDelete) => {
+      props.deleteClimb(climbToDelete);
+    }
+
     return props.climbList.map((climb, index) => (
-      <ClimbInstance climb={climb} handleLikeClick={addLike} />
+      <ClimbInstance climb={climb} handleLikeClick={addLike} handleDeleteClick={deleteClimb}/>
         
       ));
         
